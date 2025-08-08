@@ -2,7 +2,7 @@
  
   !Uygulamanın Önceki Sürümleri Yayınlanmayacaktır!       !Uygulama Eğlence Amaçlı Yapılmıştır                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
   
-  !Uygulamadaki Sıkınrıları "Sorunlar" Bölümüne Yazabilirsiniz Cevaplamaya Çalışacağım.
+  !Uygulamadaki Sıkıntıları "Sorunlar" Bölümüne Yazabilirsiniz Cevaplamaya Çalışacağım.
 
 
 
