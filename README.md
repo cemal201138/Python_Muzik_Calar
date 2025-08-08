@@ -1,2 +1,1 @@
-# Python_Muzik_Calar
-Python_Muzik_Calar
+Bu Uygulama @cemal201138'e aittir.Kullanılabilir ve geliştirilebilir fakat kullanırken kaynak belirtiniz.
