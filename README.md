@@ -1,4 +1,9 @@
- Bu Uygulama Yapay Zeka İle Yaplımıştır Ve @cemal201138'e aittir.Kullanılabilir ve geliştirilebilir fakat kullanırken kaynak belirtiniz.     
+ Bu Uygulama Yapay Zeka İle Yaplımıştır Ve @cemal201138'e aittir.Kullanılabilir ve geliştirilebilir fakat kullanırken kaynak belirtiniz. 
+
+ Apk Uygulama Link V1:https://github.com/cemal201138/Python_Muzik_Calar/releases/tag/apk_app
+
+ 
+ Apple Kestirme Link V1:https://www.icloud.com/shortcuts/b6b40a0c9a0744ebb8e58b90a8f31cc5
  
   !Uygulamanın Önceki Sürümleri Yayınlanmayacaktır!       !Uygulama Eğlence Amaçlı Yapılmıştır                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
   
