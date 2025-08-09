@@ -1,4 +1,4 @@
- Bu Uygulama @cemal201138'e aittir.Kullanılabilir ve geliştirilebilir fakat kullanırken kaynak belirtiniz.     
+ Bu Uygulama Yapay Zeka İle Yaplımıştır Ve @cemal201138'e aittir.Kullanılabilir ve geliştirilebilir fakat kullanırken kaynak belirtiniz.     
  
   !Uygulamanın Önceki Sürümleri Yayınlanmayacaktır!       !Uygulama Eğlence Amaçlı Yapılmıştır                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
   
