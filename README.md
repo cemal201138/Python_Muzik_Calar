@@ -11,7 +11,7 @@
 - 📱 **APK Uygulama (V1):** [Pushbullet Sender](https://github.com/cemal201138/Pushbullet-Sender)  
 - 🍏 **Apple Kestirme (V1):** [Pushbullet Sender Shortcut](https://github.com/cemal201138/Pushbullet-Sender-Shortcut)
 
-> ⚠️ **Önceki sürümler yayınlanmayacaktır.**  
+> ⚠️ **V10 ve öncesindeki sürümler yayınlanmayacaktır.**  
 > 🎯 Uygulama tamamen **eğlence amaçlı** geliştirilmiştir.  
 
 ---
