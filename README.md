@@ -8,8 +8,8 @@
 
 ## 🔗 Bağlantılar
 
-- 📱 **APK Uygulama (V1):** [Pushbullet Sender](https://github.com/cemal201138/Pushbullet-Sender)  
-- 🍏 **Apple Kestirme (V1):** [Pushbullet Sender Shortcut](https://github.com/cemal201138/Pushbullet-Sender-Shortcut)
+- 📱 **APK Uygulama (V1):** [Pushbullet Sender (Android)](https://github.com/cemal201138/Pushbullet-Sender)  
+- 🍏 **Apple Kestirme (V1):** [Pushbullet Sender (IPhone)](https://github.com/cemal201138/Pushbullet-Sender-Shortcut)
 
 > ⚠️ **V10 ve öncesindeki sürümler yayınlanmayacaktır.**  
 > 🎯 Uygulama tamamen **eğlence amaçlı** geliştirilmiştir.  
