@@ -25,10 +25,7 @@ Müzik çalma, duraklatma, ses seviyesi değiştirme, bilgisayar kilitleme gibi 
 
 ## 🧭 Uygulamanın Kullanımı
 
-1. Uygulamayı ilk kez açtığınızda sizden **Pushbullet tokeninizi** ister.  
-   Bu token’ı almak için [pushbullet.com](https://www.pushbullet.com) sitesine gidip hesap oluşturun.  
-2. Token’i uygulamaya girin.  
-3. Artık Pushbullet üzerinden gönderdiğiniz mesajlarla müzik çaları kontrol edebilirsiniz.
+**Yazılacaktır.**
 
 ---
 
