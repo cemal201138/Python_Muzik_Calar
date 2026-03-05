@@ -10,6 +10,7 @@
 
 - 📱 **APK Uygulama (V1):** [Pushbullet Sender (Android)](https://github.com/cemal201138/Pushbullet-Sender)  
 - 🍏 **Apple Kestirme (V1):** [Pushbullet Sender (IPhone)](https://github.com/cemal201138/Pushbullet-Sender-Shortcut)
+- **Web kontrol:** [Web Kontrol](https://cemal201138.github.io/My_Netlify_SitesApps/M%c3%bczik_Kontrol/index.html)
 
 > ⚠️ **V10 ve öncesindeki sürümler yayınlanmayacaktır.**  
 > 🎯 Uygulama tamamen **eğlence amaçlı** geliştirilmiştir.  
