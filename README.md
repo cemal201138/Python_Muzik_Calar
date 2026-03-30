@@ -69,7 +69,7 @@ Müzik çalma, duraklatma, ses seviyesi değiştirme, bilgisayar kilitleme gibi 
 ## 📞 İletişim
 
 - 👤 **Geliştirici:** [@cemal201138](https://github.com/cemal201138)  
-- 📧 **E-posta:** [cemal201138@gmail.com](mailto:cemal201138.dev@gmail.com)   
+- 📧 **E-posta:** [cemal201138@gmail.com](mailto:mylab@cemalevli.qzz.io)   
 - 💬 **GitHub:** [github.com/cemal201138](https://github.com/cemal201138)  
 - 🌐 **Proje Sayfası:** [Python_Muzik_Calar](https://github.com/cemal201138/Python_Muzik_Calar)
 
